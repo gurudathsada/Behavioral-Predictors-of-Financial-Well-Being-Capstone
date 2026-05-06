@@ -1,0 +1,34 @@
+{
+  "raw_shape": {
+    "rows": 6394,
+    "cols": 217
+  },
+  "final_shape": {
+    "rows": 6374,
+    "cols": 70
+  },
+  "retained_variable_count": 64,
+  "requested_missing_in_csv_count": 2,
+  "missing_requested_vars": [
+    "TRACK",
+    "PAYCHECK"
+  ],
+  "weighted_summary": {
+    "unweighted_mean_FWBscore": 56.082836523376216,
+    "weighted_mean_FWBscore": 54.24025081344866,
+    "unweighted_high54_rate": 0.5764041418261688,
+    "weighted_high54_rate": 0.5194329470011588,
+    "unweighted_high56_rate": 0.5167869469720741,
+    "weighted_high56_rate": 0.46036078349120857
+  },
+  "files": {
+    "official_source_verification": "/Users/gurudath/Documents/DBA/Capstone Project/Capstone_Presentation_Kit_Apr_2026/dataset_build_outputs/official_source_verification.csv",
+    "final_dataset": "/Users/gurudath/Documents/DBA/Capstone Project/Capstone_Presentation_Kit_Apr_2026/dataset_build_outputs/final_dataset_capstone_v2.csv",
+    "quality_report": "/Users/gurudath/Documents/DBA/Capstone Project/Capstone_Presentation_Kit_Apr_2026/dataset_build_outputs/variable_missingness_quality_report.csv",
+    "selection_audit": "/Users/gurudath/Documents/DBA/Capstone Project/Capstone_Presentation_Kit_Apr_2026/dataset_build_outputs/variable_selection_audit.csv",
+    "imputation_log": "/Users/gurudath/Documents/DBA/Capstone Project/Capstone_Presentation_Kit_Apr_2026/dataset_build_outputs/imputation_log.csv",
+    "row_filter_log": "/Users/gurudath/Documents/DBA/Capstone Project/Capstone_Presentation_Kit_Apr_2026/dataset_build_outputs/row_filter_log.csv",
+    "model_sanity_check": "/Users/gurudath/Documents/DBA/Capstone Project/Capstone_Presentation_Kit_Apr_2026/dataset_build_outputs/model_sanity_check.json",
+    "cluster_summary": "/Users/gurudath/Documents/DBA/Capstone Project/Capstone_Presentation_Kit_Apr_2026/dataset_build_outputs/cluster_summary.json"
+  }
+}

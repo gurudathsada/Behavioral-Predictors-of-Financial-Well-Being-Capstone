@@ -1,0 +1,5 @@
+step,rows,rows_removed
+start_rows,6394.0,
+drop_missing_outcome,,5.0
+drop_row_missing_core_gt_30pct,,15.0
+final_rows,6374.0,

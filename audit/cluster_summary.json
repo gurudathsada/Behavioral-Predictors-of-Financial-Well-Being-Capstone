@@ -1,0 +1,50 @@
+{
+  "cluster_feature_count": 42,
+  "k_grid": [
+    {
+      "k": 3,
+      "silhouette": 0.09636919582286009,
+      "calinski_harabasz": 651.9331621495946
+    },
+    {
+      "k": 4,
+      "silhouette": 0.03638229849745848,
+      "calinski_harabasz": 508.1768458767104
+    },
+    {
+      "k": 5,
+      "silhouette": 0.04066503532786622,
+      "calinski_harabasz": 438.30024875184847
+    },
+    {
+      "k": 6,
+      "silhouette": 0.03610918038349872,
+      "calinski_harabasz": 382.511776561571
+    }
+  ],
+  "best_k": 3,
+  "best_silhouette": 0.09636919582286009,
+  "best_calinski_harabasz": 651.9331621495946,
+  "anova_f_stat": 1970.0445206168156,
+  "anova_p_value": 0.0,
+  "cluster_means_fwbscore": [
+    {
+      "behavior_cluster": 0,
+      "count": 837,
+      "mean": 38.91756272401434,
+      "std": 10.77006927269758
+    },
+    {
+      "behavior_cluster": 1,
+      "count": 3423,
+      "mean": 63.38007595676307,
+      "std": 11.363919561086275
+    },
+    {
+      "behavior_cluster": 2,
+      "count": 2114,
+      "mean": 51.063386944181644,
+      "std": 10.674052783064889
+    }
+  ]
+}
