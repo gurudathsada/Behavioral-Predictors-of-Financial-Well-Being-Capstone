@@ -1,0 +1,12 @@
+{
+  "cv_best_model": "ModelB_RandomForest",
+  "cv_best_auc_mean": 0.9266701655129708,
+  "ablation_full_auc": 0.9325837262725185,
+  "ablation_ablated_auc": 0.9006021037359448,
+  "ablation_auc_drop": 0.03198162253657366,
+  "subgroup_dimensions": [
+    "age_group_3",
+    "education_group_3",
+    "income_group_3"
+  ]
+}

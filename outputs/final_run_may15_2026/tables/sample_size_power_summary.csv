@@ -1,0 +1,6 @@
+research_block,method,alpha,target_power,confidence_level,required_n,observed_n,adequacy,notes
+Global settings,Inference policy,0.05,0.8,0.95,,6374,Configured,Alpha and power defaults used for sample-size justification.
+RQ1 classification,EPV>=10 for logistic model (61 predictors),0.05,0.8,0.95,1440.051851851852,6374,Adequate,Required events=610; min class rate=0.4236.
+RQ3 nested AUC lift (threshold54),Normal-approx sample size from observed DeLong z,0.05,0.8,0.95,90.79942175501121,1275,Adequate,z_observed=10.4983.
+RQ3 nested AUC lift (threshold56),Normal-approx sample size from observed DeLong z,0.05,0.8,0.95,128.67777494818108,1275,Adequate,z_observed=8.8188.
+RQ4 clustering,ANOVA power analysis using observed Cohen's f (k=3),0.05,0.8,0.95,18.96143472259033,6374,Adequate,Cohen's f=0.7854.

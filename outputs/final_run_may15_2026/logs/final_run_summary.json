@@ -1,0 +1,11 @@
+{
+  "dataset_rows": 6374,
+  "dataset_cols": 70,
+  "threshold54_best_model": "ModelB_XGBoost",
+  "threshold56_best_model": "ModelB_XGBoost",
+  "threshold54_best_auc": 0.9329125724363819,
+  "threshold56_best_auc": 0.91988303805451,
+  "cluster_best_k": 3,
+  "cluster_anova_p": 0.0,
+  "top_shap_feature": "ENDSMEET"
+}

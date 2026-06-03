@@ -1,0 +1,6 @@
+analysis_block,metric,estimate,ci_low,ci_high,method,n_boot,alpha
+RQ3,AUC delta (ModelB_Logistic - ModelA_Logistic) threshold 54,0.09882338120433354,0.08117106884101702,0.11784943083658056,Paired bootstrap (percentile CI),3000.0,0.05
+RQ3,AUC delta (ModelB_Logistic - ModelA_Logistic) threshold 56,0.08096683286364614,0.06358348207748873,0.09880915848679653,Paired bootstrap (percentile CI),3000.0,0.05
+RQ4,ANOVA eta-squared,0.3815055027198195,,,ANOVA effect size,,0.05
+RQ4,ANOVA Cohen's f,0.7853847843137433,,,Converted from eta-squared,,0.05
+RQ4,Chi-square Cramer's V (cluster vs high54),0.578712801105026,,,Association effect size,,0.05

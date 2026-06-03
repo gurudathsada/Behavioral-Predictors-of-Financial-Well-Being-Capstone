@@ -1,3 +1,0 @@
-model,best_cv_auc,best_params
-RandomForest,0.90289765086616,"{""model__max_depth"": 12, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 1, ""model__n_estimators"": 600}"
-XGBoost,0.9045107647444924,"{""model__colsample_bytree"": 1.0, ""model__learning_rate"": 0.05, ""model__max_depth"": 3, ""model__n_estimators"": 250, ""model__subsample"": 0.8}"
