@@ -8,10 +8,6 @@ Repository URL: https://github.com/gurudathsada/Behavioral-Predictors-of-Financi
 
 This project studies whether behavioral, hardship, social-background, psychological-value, and demographic-knowledge variables can predict financial well-being among U.S. adults using the CFPB National Financial Well-Being Survey public-use dataset. The final analysis combines supervised classification, model comparison, SHAP interpretability, clustering, and statistical inference.
 
-## Final Report
-
-The final report PDF is submitted directly through the academic portal and is intentionally not stored in this repository. This repository contains the reproducible data, code, audit logs, tables, and figures supporting that submission.
-
 ## Repository Structure
 
 - `data/raw/` - official CFPB public-use source files.
@@ -19,9 +15,9 @@ The final report PDF is submitted directly through the academic portal and is in
 - `audit/` - source verification, missingness, imputation, row-filtering, and variable-selection logs.
 - `notebooks/` - notebook views for EDA, modeling, clustering, and SHAP interpretation.
 - `src/` - reusable project code.
-- `scripts/final_capstone/` - final analysis, validation, inference, ledger, and report-generation scripts.
+- `scripts/final_capstone/` - final analysis, validation, inference, ledger, and artifact-generation scripts.
 - `outputs/final_run_may15_2026/tables/` - final metric, hypothesis-test, power, SHAP, clustering, and canonical-ledger tables.
-- `outputs/final_run_may15_2026/figures/` - final figures used in reporting.
+- `outputs/final_run_may15_2026/figures/` - final analysis figures.
 - `outputs/final_run_may15_2026/logs/` - run summaries and execution notes.
 
 ## Data Source
@@ -43,7 +39,7 @@ Files used:
 3. Review data lineage and cleaning decisions in `audit/`.
 4. Run or inspect notebooks in `notebooks/`.
 5. Full final pipeline scripts are in `scripts/final_capstone/`.
-6. Final numbers used in the report are in `outputs/final_run_may15_2026/tables/canonical_numbers_ledger.csv`.
+6. Canonical final analysis numbers are in `outputs/final_run_may15_2026/tables/canonical_numbers_ledger.csv`.
 
 ## Key Final Artifacts
 

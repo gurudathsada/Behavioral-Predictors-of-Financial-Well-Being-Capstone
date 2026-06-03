@@ -129,7 +129,7 @@ def main() -> None:
     md_lines = [
         "# Canonical Numbers Ledger (Final Freeze)",
         "",
-        "This ledger is the single source of truth for final report/deck numeric consistency.",
+        "This ledger is the single source of truth for final analysis numeric consistency.",
         "",
         "## Core Metrics",
     ]

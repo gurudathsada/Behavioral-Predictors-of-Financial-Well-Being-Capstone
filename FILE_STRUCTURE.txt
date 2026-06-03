@@ -76,7 +76,6 @@ requirements.txt
 run_analysis.py
 scripts/final_capstone/build_advanced_validation.py
 scripts/final_capstone/build_canonical_numbers_ledger.py
-scripts/final_capstone/build_final_report.py
 scripts/final_capstone/build_inference_artifacts.py
 scripts/final_capstone/final_capstone_pipeline.py
 src/__init__.py
