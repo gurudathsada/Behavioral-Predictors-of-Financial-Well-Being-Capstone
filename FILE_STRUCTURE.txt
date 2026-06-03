@@ -19,8 +19,6 @@ data/raw/NFWBS_PUF_2016_data.csv
 data/raw/cfpb_nfwbs-puf-codebook.pdf
 data/raw/cfpb_nfwbs-puf-user-guide.pdf
 docs/PROJECT_ARTIFACT_MAP.md
-docs/final_report/QM640_Final_Report_Gurudath_Sadanandan.docx
-docs/final_report/QM640_Final_Report_Gurudath_Sadanandan.pdf
 notebooks/01_eda.ipynb
 notebooks/02_modelling_rq1_rq3.ipynb
 notebooks/03_clustering_rq4.ipynb

@@ -26,5 +26,4 @@
 
 ## Final Report
 
-- PDF: `docs/final_report/QM640_Final_Report_Gurudath_Sadanandan.pdf`
-- DOCX: `docs/final_report/QM640_Final_Report_Gurudath_Sadanandan.docx`
+The final report is submitted directly through the academic portal and is not included in this repository.

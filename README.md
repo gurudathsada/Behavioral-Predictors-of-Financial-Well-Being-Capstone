@@ -10,10 +10,7 @@ This project studies whether behavioral, hardship, social-background, psychologi
 
 ## Final Report
 
-The final report is available in:
-
-- `docs/final_report/QM640_Final_Report_Gurudath_Sadanandan.pdf`
-- `docs/final_report/QM640_Final_Report_Gurudath_Sadanandan.docx`
+The final report PDF is submitted directly through the academic portal and is intentionally not stored in this repository. This repository contains the reproducible data, code, audit logs, tables, and figures supporting that submission.
 
 ## Repository Structure
 
@@ -26,7 +23,6 @@ The final report is available in:
 - `outputs/final_run_may15_2026/tables/` - final metric, hypothesis-test, power, SHAP, clustering, and canonical-ledger tables.
 - `outputs/final_run_may15_2026/figures/` - final figures used in reporting.
 - `outputs/final_run_may15_2026/logs/` - run summaries and execution notes.
-- `docs/final_report/` - final submitted report files.
 
 ## Data Source
 
